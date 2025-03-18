@@ -1,0 +1,7 @@
+# Formatting
+pylint
+black
+
+# Testing
+pytest
+pytest-cov
