@@ -2,6 +2,10 @@
 
 Simple Math is a collection of functions for performing basic mathematical operations.
 
+```bash
+pip install simple-math
+```
+
 ## Arithmetic
 
 ### Elementary
